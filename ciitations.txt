@@ -1,0 +1,15 @@
+Singh, Ramni & Maurya, Sargam & Tripathi, Tanisha & Narula, Tushar & Srivastav, Gaurav. (2020). Movie Recommendation System using Cosine Similarity and KNN. International Journal of Engineering and Advanced Technology. 9. 2249-8958. 10.35940/ijeat.E9666.069520. 
+
+
+
+Pawar, Shubham. “Movies Recommendation System Using Cosine Similarity.” CERN European Organization for Nuclear Research - Zenodo (2022)
+
+
+
+
+H. Khatter, N. Goel, N. Gupta and M. Gulati, "Movie Recommendation System using Cosine Similarity with Sentiment Analysis," 2021 Third International Conference on Inventive Research in Computing Applications (ICIRCA), Coimbatore, India, 2021, pp. 597-603, doi: 10.1109/ICIRCA51532.2021.9544794.
+
+
+
+
+Movie Recommender System: MOVREC usingMachine Learning Techniques (2020) Ashrita Kashyap1, Sunita. B2 ,Sneh Srivastava3 , Aishwarya. PH4 , AnupJung Shah5 Department of Computer ScienceEngineering SAIT, Bengaluru, Karnataka, India.
